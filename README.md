@@ -1,7 +1,16 @@
-# The Beginner's Guide to React
+# buildspace DNS starter project
 
-Watch [The Beginner's Guide to React for free on egghead.io](https://kcd.im/beginner-react).
+### **Welcome 👋**
 
-If you wish to play with the finished examples, you can do so in this repository. It's not required to learn from the course (these are not exercises).
+To get started with this course, clone this repo and follow these commands:
 
-To run the dev server, run the `start` file. If your operating system does not know how to run the "start" file, simply copy its contents into a command terminal to start the server.
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+3. Start coding!
+
+### What is the `.vscode` Folder?
+If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+
+
+### **Questions?**
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
