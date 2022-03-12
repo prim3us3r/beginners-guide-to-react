@@ -360,8 +360,8 @@ const editRecord = (name) => {
 				<div className="header-container">
 					<header>
             <div className="left">
-              <p className="title">⭐ APE Name Service</p>
-              <p className="subtitle">Own your wagmi name on the blockchain!</p>
+              <p className="title">Welcome To The Futur3</p>
+              <p className="subtitle">Own your name on the blockchain!</p>
               
               
             </div>
